@@ -1,0 +1,6 @@
+com\cognizant\reactintegration\model\Employee.class
+com\cognizant\reactintegration\repository\EmployeeRepository.class
+com\cognizant\reactintegration\controller\EmployeeResource.class
+com\cognizant\reactintegration\service\EmployeeService.class
+com\cognizant\reactintegration\ReactintegrationApplication.class
+com\cognizant\reactintegration\serviceImpl\EmployeeServiceImpl.class

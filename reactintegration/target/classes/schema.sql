@@ -1,0 +1,1 @@
+create table Employee(id int primary key,name varchar(50),gender varchar(30),age int,salary double);
